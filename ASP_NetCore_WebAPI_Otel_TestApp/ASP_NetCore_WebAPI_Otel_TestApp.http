@@ -1,0 +1,6 @@
+@ASP_NetCore_WebAPI_Otel_TestApp_HostAddress = http://localhost:5276
+
+GET {{ASP_NetCore_WebAPI_Otel_TestApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
